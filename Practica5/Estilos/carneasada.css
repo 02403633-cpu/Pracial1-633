@@ -1,0 +1,40 @@
+body{
+	background: hotpink;
+	color:white;
+	font-family: century gothic;
+}
+
+
+/*Titulo con otro tipo 
+de letra y otro color*/
+
+h1{
+	font-family: courier;
+	color: black;
+}
+
+
+/*El parrafo #2 que es el 
+diablo, ponerlo en negritas 
+y cursiva*/
+
+p.diablo{
+	font-weight: bolder;
+	font-style: italic;
+}
+
+/*Enlace 2 de color
+verde y negritas*/
+
+a{
+	color: green;
+	font-weight: bolder;
+}
+
+/*Enlace 1 de color
+amarillo y tamaño 20*/
+
+p a{
+	color: yellow;
+	font-size: 20px;
+}
